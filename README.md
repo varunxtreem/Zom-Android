@@ -104,3 +104,6 @@ Currently the instrumented target tests (to be run on a device) in the directory
 ## Building for a Locale
 
 ant -Dgibberbot.locale=fa release
+
+
+VPN software has been in use for many years. In fact, this popular way of providing secure communication. A [DMVPN](https://www.clearos.com/products/purchase/clearos-marketplace-apps/detail/cloud/Dynamic_VPN/) service runs on VPN routers and firewall concentrators. Each remote site has a router configured to connect to the company’s headquarters VPN device, providing access to the resources available. Dynamic Vpn deployments include mechanisms such as GRE tunneling and IPsec encryption with Next Hop Resolution Protocol 
